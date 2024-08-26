@@ -1,5 +1,5 @@
-theme: jekyll-theme-minima
-title: Your Site Title
-description: A brief description of your site
+theme: minima
+title: Impatient Software
+description: TAK Developer's Tips and Tricks Blog
 plugins:
   - jekyll-seo-tag
