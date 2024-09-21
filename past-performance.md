@@ -11,14 +11,13 @@ At Impatient Software, we take pride in our track record of successful projects 
 ## Previous Customers for Past Performance Referral
 
 - **5x Systems**
-  - Project details and outcomes...
+  - Software Development Manager
 
 - **DeVilliers Technology Solutions LLC**
-  - Project details and outcomes...
+  - Software Contractor 
 
 - **Amazon Robotics**
   - Project Based Consultant under Game 7
-  - Project details and outcomes...
 
 ## Our Expertise
 
@@ -30,4 +29,5 @@ We specialize in developing innovative custom software solutions across various 
 - Mobile App Development
 - Cloud-based Solutions
 
-For more information about our services or to discuss a potential project, please [contact us](/contact).
+To contact us for any other requirements, please fill out this form. 
+https://forms.gle/BFcZC2Rb83oQ1ZDMA

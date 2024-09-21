@@ -4,48 +4,37 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact Us
+# Contact Impatient Software
 
-We're always eager to hear from potential clients, partners, or anyone interested in our services. Feel free to reach out to us using any of the methods below.
+## Submit a Proposal
+1. Email us with your detailed project scope and software requirements
+2. Include all required documentation and adhere to listed deadlines
+3. Follow up to confirm receipt of your proposal
+4. If unsuccessful, contact us for feedback on future improvements
+
+## Additional Resources
+- Case studies/whitepapers: [impatientsoftware.com/resources](https://www.impatientsoftware.com/resources)
+- Open source projects: [github.com/ImpatientSoft](https://github.com/ImpatientSoftware)
 
 ## Get in Touch
-
-**Email:** info@impatientsoftware.com
-
-**Phone:** +1 (555) 123-4567
+**Email:** naga@impatient.software
 
 **Address:**  
 Impatient Software  
-123 Tech Lane  
-Silicon Valley, CA 94000  
-USA
+27 Windsor Street #1L
+Worcester, MA 
 
 ## Send Us a Message
 
 For general inquiries or to discuss a potential project, please fill out the form below:
 
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="_replyto" required>
-
-  <label for="subject">Subject:</label>
-  <input type="text" id="subject" name="subject" required>
-
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-
-  <button type="submit">Send</button>
-</form>
+https://forms.gle/BFcZC2Rb83oQ1ZDMA
 
 ## Connect With Us
 
 Follow us on social media to stay updated on our latest projects and insights:
 
 - [LinkedIn](https://www.linkedin.com/company/impatient-software)
-- [Twitter](https://twitter.com/impatientsoft)
 - [GitHub](https://github.com/ImpatientSoftware)
 
 We look forward to hearing from you!
