@@ -3,7 +3,7 @@ layout: home
 title: Impatient Software
 ---
 
-# Impatient Software - There be devils in the details
+## There be devils in the details
 
 We focus on developing innovative custom software solutions for a range of industries and applications.
 Our niche are as Team Awareness Kit Developers. Join the TAK Community at TAK.gov or FreeTAK.
