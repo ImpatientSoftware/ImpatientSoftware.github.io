@@ -12,6 +12,6 @@ Welcome to our resources page. Here you'll find valuable information, case studi
 ## Useful Links
 
 - [TAK.gov](https://tak.gov) - Official Team Awareness Kit website
-- [FreeTAK](https://freetakserver.github.io/) - Open-source TAK server
+- [FreeTAK](https://github.com/FreeTAKTeam/FreeTakServer?tab=readme-ov-file#tell-us-what-you-think) - Open-source TAK server
 
 For more information or to discuss how we can help with your software needs, please [contact us](/contact).

@@ -28,7 +28,7 @@ Worcester, MA
 
 For general inquiries or to discuss a potential project, please fill out the form below:
 
-https://forms.gle/BFcZC2Rb83oQ1ZDMA
+[Contact Form](https://forms.gle/BFcZC2Rb83oQ1ZDMA)
 
 ## Connect With Us
 
