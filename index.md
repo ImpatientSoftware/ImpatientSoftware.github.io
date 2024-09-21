@@ -1,24 +1,39 @@
 ---
-layout: default
-title: Hello World
+layout: home
+title: Impatient Software
 ---
 
-# Welcome to My GitHub Pages Site
+# Impatient Software - There be devils in the details
 
-Hello, World! This is my first Jekyll site on GitHub Pages.
+We focus on developing innovative custom software solutions for a range of industries and applications.
+Our niche are as Team Awareness Kit Developers. Join the TAK Community at TAK.gov or FreeTAK.
 
-## About Me
+## Team
 
-I'm a developer who loves to code and learn new things.
+- Naga Varun Kanaparthy
+  - Project Manager
+- Geoff McQueen
+  - Senior Software Developer
 
-## My Projects
+## Previous Customers for Past Performance Referral
+- 5x Systems
+- DeVilliers Technology Solutions LLC
+- Amazon Robotics Project Based Consultant under Game 7
 
-Here are some of my projects:
+## NAICS Codes
+- 511210 - Software Publishers
+- 541511 - Custom Computer Programming Services
+- 541512 - Computer Systems Design Services
+- 541330 - Engineering Services
+- 751512 - Radio communications equipment manufacturing
 
-1. Project One
-2. Project Two
-3. Project Three
+## Instructions for proposals
+1. Reach out to us via email with a detailed proposal describing the scope of your project and software requirements.
+2. Submit your proposal along with any required documentation with deadlines listed in the notice.
+3. Be sure you've reviewed and followed all instructions carefully.
+4. Follow up after submitting to confirm we received your proposal.
+5. If unsuccessful this time, reach out again for feedback on how to improve next time.
 
-## Contact
-
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+### Additional info for customers:
+- Relevant case studies/whitepapers available at [https://www.impatientsoftware.com/resources](https://www.impatientsoftware.com/resources)
+- Access our GitHub repository with open source projects at [github.com/ImpatientSoft](https://github.com/ImpatientSoftware)
