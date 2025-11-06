@@ -3,3 +3,4 @@ title: Impatient Software
 description: There be devils in the details - TAK Developer's Tips and Tricks Blog
 plugins:
   - jekyll-seo-tag
+google_fonts: "https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;700&display=swap"
